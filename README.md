@@ -40,6 +40,11 @@ The server should be running on http://localhost:3001.
 Once the server is running, you can interact with the API using tools like Insomnia or Postman.
 
 ## Demo
+ - [API GET routes in Insomnia for users and thoughts](https://drive.google.com/file/d/1jcretxVGb4oFW1boms5lAvyuXhlF7iEI/view?usp=sharing)
+ - [API POST PUT DELETE routes in Insomnia for user](https://drive.google.com/file/d/1IIpBD2hDvtSKJi8Y3nyZW5zIdojs3ouT/view?usp=sharing)
+ - [API POST PUT DELETE routes in Insomnia for thoughts](https://drive.google.com/file/d/1yOuEaH9w5mOnDJGkLFNEKrycNg3MJ7gk/view?usp=sharing)
+ - [API POST DELETE routes in Insomnia for thoughts rections](https://drive.google.com/file/d/12bC0Gv9jTs02Lr4No_AJGnXU5h-PAYza/view?usp=sharing)
+ - [API POST DELETE routes in Insomnia for user friends](https://drive.google.com/file/d/1cXo9Aw2B3QC3ktOtIt0mTN7oQQYkVUDh/view?usp=sharing)
 
 ## API Routes
 
